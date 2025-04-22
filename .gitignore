@@ -1,0 +1,39 @@
+# Игнорировать системные файлы Windows
+Application Data/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+NTUSER.DAT
+*.blf
+*.regtrans-ms
+ntuser.dat.LOG*
+ntuser.ini
+
+# Игнорировать пользовательские папки
+3D Objects/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+
+# Игнорировать временные файлы
+.bash_history
+.gitconfig
+.lesshst
+.viminfo
+.viminfo.tmp
+.viminfz.tmp
+
+# Игнорировать патчи и другие файлы
+*.patch
